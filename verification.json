@@ -1,0 +1,18 @@
+{
+  "checks": [
+    {
+      "case": "Crecimiento compuesto",
+      "passed": true
+    },
+    {
+      "case": "Override febrero",
+      "passed": true
+    },
+    {
+      "case": "Crecimiento cero",
+      "passed": true
+    }
+  ],
+  "passed": 3,
+  "network": "forbidden"
+}
