@@ -6,7 +6,7 @@ A business assumption becomes a model, an interface and a reusable calculation.
 
 ## Watch the frontend
 
-Guided frontend demos with synthetic data: explore models, budget comparisons and the integrated chat. These are scripted interface walkthroughs from the earlier product generation; the executable calculation sample is below.
+Guided frontend demos with synthetic data: explore models, budget comparisons, custom agents and the integrated chat. These are scripted interface walkthroughs from the earlier product generation; the executable calculation sample is below.
 
 ### Analysis and what-if · 57s
 
@@ -20,7 +20,12 @@ https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e
 
 [Open the full-screen demo](https://chalsai.com/demo.html?script=modeling-budget&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Download MP4](docs/demos/modeling-budget.mp4)
 
-[AI Assistant for Google Sheets](https://www.youtube.com/watch?v=Oo4Bd8iGeUY) — demo of the Sheets adaptation.
+
+### Custom agent creation · 85s
+
+https://github.com/user-attachments/assets/418023e3-7c39-4082-ba8b-140ba44dab4a
+
+[Open the full-screen demo](https://chalsai.com/demo.html?script=custom-agents&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Download MP4](docs/demos/custom-agents.mp4)
 
 [Media provenance](docs/demos/manifest.json).
 

@@ -28,6 +28,18 @@
       "width": 960,
       "height": 600,
       "github_attachment_url": "https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e"
+    },
+    {
+      "file": "custom-agents.mp4",
+      "script": "custom-agents",
+      "source_path": "frontend/public/demos/custom-agents.mp4",
+      "sha256": "cf3e62e0ffedd7e6eab457df76e3b7e0b8e47cbbeb3359eadb33c42cc06edf6c",
+      "duration_seconds": 85.016835,
+      "bytes": 373760,
+      "codec": "h264",
+      "width": 960,
+      "height": 600,
+      "github_attachment_url": "https://github.com/user-attachments/assets/418023e3-7c39-4082-ba8b-140ba44dab4a"
     }
   ]
 }
