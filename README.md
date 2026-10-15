@@ -2,7 +2,27 @@
 
 A business assumption becomes a model, an interface and a reusable calculation.
 
-[Run the sample](#run-the-sample) · [Architecture](docs/architecture.md) · [Design decisions](docs/decisions.md) · [Code tour](docs/code-tour.md) · [Español](docs/LEEME.md)
+[Watch the frontend](#watch-the-frontend) · [Run the sample](#run-the-sample) · [Architecture](docs/architecture.md) · [Design decisions](docs/decisions.md) · [Code tour](docs/code-tour.md) · [Español](docs/LEEME.md)
+
+## Watch the frontend
+
+Guided frontend demos with synthetic data: explore models, budget comparisons and the integrated chat. These are scripted interface walkthroughs from the earlier product generation; the executable calculation sample is below.
+
+### Analysis and what-if · 57s
+
+https://github.com/user-attachments/assets/69282a3f-8c7d-4804-9ecb-95bc54f11465
+
+[Open the full-screen demo](https://chalsai.com/demo.html?script=analysis-whatif&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Download MP4](docs/demos/analysis-whatif.mp4)
+
+### Modeling and budget · 63s
+
+https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e
+
+[Open the full-screen demo](https://chalsai.com/demo.html?script=modeling-budget&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Download MP4](docs/demos/modeling-budget.mp4)
+
+[AI Assistant for Google Sheets](https://www.youtube.com/watch?v=Oo4Bd8iGeUY) — demo of the Sheets adaptation.
+
+[Media provenance](docs/demos/manifest.json).
 
 ![Financial Modeling SaaS illustrated architecture](docs/overview.svg)
 

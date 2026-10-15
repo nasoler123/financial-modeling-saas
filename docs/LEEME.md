@@ -2,6 +2,26 @@
 
 Interfaz React, fórmulas, drivers, dependencias, proyecciones y adaptación a Google Sheets.
 
+## Ver el frontend
+
+Demos guiadas del frontend con datos ficticios: modelos, comparativas de presupuesto y chat integrado. Son recorridos con guion de la generación anterior del producto; la muestra de cálculo ejecutable está más abajo.
+
+### Análisis y escenarios · 57s
+
+https://github.com/user-attachments/assets/69282a3f-8c7d-4804-9ecb-95bc54f11465
+
+[Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=analysis-whatif&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Descargar MP4](demos/analysis-whatif.mp4)
+
+### Modelización y presupuesto · 63s
+
+https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e
+
+[Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=modeling-budget&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Descargar MP4](demos/modeling-budget.mp4)
+
+[AI Assistant for Google Sheets](https://www.youtube.com/watch?v=Oo4Bd8iGeUY) — demo de la adaptación a Sheets.
+
+[Procedencia de los vídeos](demos/manifest.json).
+
 ## Qué demuestra este caso
 
 El frontend completo necesita componentes compartidos, autenticación y API. La demo usa el motor temporal original con un modelo sintético.
