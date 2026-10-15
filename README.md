@@ -1,12 +1,28 @@
 # Financial Modeling SaaS
 
-A business assumption becomes a model, an interface and a reusable calculation.
+**A financial modeling product with editable assumptions and AI assistance**
 
-[Watch the frontend](#watch-the-frontend) · [Run the sample](#run-the-sample) · [Architecture](docs/architecture.md) · [Design decisions](docs/decisions.md) · [Code tour](docs/code-tour.md) · [Español](docs/LEEME.md)
+*A Chals AI case study — built by Ignacio Soler.*
+
+<a id="the-project"></a>
+
+I built a financial planning product where users could edit business assumptions, calculate projections, compare budgets and explore scenarios through an integrated interface and chat. I later adapted the modeling capabilities to a Google Sheets sidebar.
+
+I built this project end to end on my own, using AI tools for all programming. My work covered product definition, technical decisions, implementation, integration and validation.
+
+[Watch the frontend](#watch-the-frontend) · [Explore the implementation](#explore-the-implementation) · [Run the component sample](#run-the-component-sample) · [Español](docs/LEEME.md)
+
+## What I built
+
+- A React and TypeScript interface with editable drivers, budget grids and dashboards.
+- A formula parser and backend calculation engine for monthly projections and dependencies.
+- A Google Sheets adaptation that brought the modeling capabilities into spreadsheets.
+
+**Status:** Built during 2025–July 2026 as an earlier Chals AI product. The proprietary frontend did not acquire customers.
 
 ## Watch the frontend
 
-Guided frontend demos with synthetic data: explore models, budget comparisons, custom agents and the integrated chat. These are scripted interface walkthroughs from the earlier product generation; the executable calculation sample is below.
+Three guided frontend walkthroughs show scenario analysis, financial modeling and custom agent creation. They use synthetic data and scripted interactions from an earlier product generation.
 
 ### Analysis and what-if · 57s
 
@@ -31,19 +47,9 @@ https://github.com/user-attachments/assets/418023e3-7c39-4082-ba8b-140ba44dab4a
 
 ![Financial Modeling SaaS illustrated architecture](docs/overview.svg)
 
-## The project
+## Explore the implementation
 
-A financial model needs more than a generated formula: editable assumptions, periods, actual versus forecast values, dependencies, overrides and an interface that preserves the meaning of the calculation.
-
-**My work.** I built a financial modeling product with editable drivers, budget grids and dashboards, a formula parser and backend execution, and then adapted the same capabilities to a Google Sheets sidebar. I led the product and technical construction, using AI-assisted development alongside integration and verification.
-
-**Period.** 2025–July 2026; a previous product generation.
-
-**Project outcome.** The proprietary frontend was built but did not acquire customers. It remains evidence of product and engineering work.
-
-## What you can inspect here
-
-This repository runs the original monthly AST evaluator. React components, dependency compilation and the Sheets adapter are selected excerpts. It does not boot the original SaaS frontend or connect a Google account.
+The runnable component contains the original monthly AST evaluator. Selected source excerpts document the wider work: React components, formula parsing, dependency compilation and the Google Sheets adapter.
 
 | Entry | What to look at |
 |---|---|
@@ -54,9 +60,15 @@ This repository runs the original monthly AST evaluator. React components, depen
 | [Code tour](docs/code-tour.md) | 8 selected excerpts from the wider construction |
 | [Provenance](provenance.json) | Original paths, commits, hashes and documented redactions |
 
-## Run the sample
+**Stack across the project:** React · TypeScript · Python · AST / SQL · Google Apps Script.
 
-Requires **Python 3.10+**, with no package installation or account setup.
+This public case study includes selected original code and an isolated runnable sample with synthetic data. Production integrations and customer data remain private. Original paths, commits, hashes and redactions are recorded in [provenance.json](provenance.json).
+
+<a id="run-the-sample"></a>
+
+## Run the component sample
+
+Run the original monthly AST evaluator locally with synthetic data. Requires **Python 3.10+**, with no package installation or account setup.
 
 ```sh
 git clone https://github.com/nasoler123/financial-modeling-saas.git
@@ -65,26 +77,18 @@ python3 -I demo.py
 python3 verify.py
 ```
 
-The sample runs offline with synthetic data; it rejects socket operations and external subprocesses. `verify.py` checks the result receipt, source hash, local links, instruction parity and credential patterns. These checks cover the published sample rather than the full production system.
-
 Expected observations:
 
 - 10% monthly growth from 100 produces 110, 121, 133.10 and 146.41.
 - Setting February to 150 produces 110, 150, 165 and 181.50.
 - Zero growth keeps the series at 100.
 
-[Recorded local results](verification.json).
+The sample runs offline and rejects network connections and external subprocesses. `verify.py` checks local links, instruction parity, the source hash, credential patterns and the recorded results of the component checks. [Recorded local results](verification.json).
 
-## Stack in context
+## More from Chals AI
 
-React · TypeScript · Python · AST / SQL · driver dependencies · Google Apps Script.
+These projects cover my work across business automation, financial software, AI agents and data infrastructure.
 
-The stack describes the wider construction. The executable sample uses Python's standard library; the remaining integrations appear in the code tour.
-
-## Related work
-
-This case belongs to the evolution of **Chals AI**, from document automation and a financial product to agent tooling and managed data infrastructure. The cases overlap; they are not four separate companies.
-
-[Invoice Automation](https://github.com/nasoler123/invoice-automation) · [AI Agent Harness](https://github.com/nasoler123/ai-agent-harness) · [Data Platform and MCP](https://github.com/nasoler123/data-platform-mcp)
+[Data Platform and MCP](https://github.com/nasoler123/data-platform-mcp) · [AI Agent Harness](https://github.com/nasoler123/ai-agent-harness) · [Invoice Automation](https://github.com/nasoler123/invoice-automation)
 
 [Ignacio Soler](https://github.com/nasoler123) · [LinkedIn](https://www.linkedin.com/in/ignacio-soler-esteban/)
