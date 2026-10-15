@@ -1,0 +1,31 @@
+{
+  "kind": "scripted_frontend_walkthroughs",
+  "data": "synthetic",
+  "source_repository": "nasoler123/asesor_virtual_repo",
+  "source_commit": "ed7f4adc4aa50fc8d2ba7457c3b9ff38fe69ffc8",
+  "transformation": "None; MP4 files copied byte-for-byte.",
+  "assets": [
+    {
+      "file": "analysis-whatif.mp4",
+      "script": "analysis-whatif",
+      "source_path": "frontend/public/demos/analysis-whatif.mp4",
+      "sha256": "223471aac54289b3cda7199bd365140071db49c58bd18ed18acfbfde46acb829",
+      "duration_seconds": 57.021963,
+      "bytes": 280023,
+      "codec": "h264",
+      "width": 960,
+      "height": 600
+    },
+    {
+      "file": "modeling-budget.mp4",
+      "script": "modeling-budget",
+      "source_path": "frontend/public/demos/modeling-budget.mp4",
+      "sha256": "3fb2faede39eacd89a94bd536091c2b9ba95492638b68181479fcc20cfddb245",
+      "duration_seconds": 63.007727,
+      "bytes": 340695,
+      "codec": "h264",
+      "width": 960,
+      "height": 600
+    }
+  ]
+}
