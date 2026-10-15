@@ -10,13 +10,13 @@ Guided frontend demos with synthetic data: explore models, budget comparisons an
 
 ### Analysis and what-if · 57s
 
-![](docs/demos/analysis-whatif.mp4)
+https://github.com/user-attachments/assets/69282a3f-8c7d-4804-9ecb-95bc54f11465
 
 [Open the full-screen demo](https://chalsai.com/demo.html?script=analysis-whatif&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Download MP4](docs/demos/analysis-whatif.mp4)
 
 ### Modeling and budget · 63s
 
-![](docs/demos/modeling-budget.mp4)
+https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e
 
 [Open the full-screen demo](https://chalsai.com/demo.html?script=modeling-budget&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Download MP4](docs/demos/modeling-budget.mp4)
 

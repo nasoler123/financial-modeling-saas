@@ -8,13 +8,13 @@ Demos guiadas del frontend con datos ficticios: modelos, comparativas de presupu
 
 ### Análisis y escenarios · 57s
 
-![](demos/analysis-whatif.mp4)
+https://github.com/user-attachments/assets/69282a3f-8c7d-4804-9ecb-95bc54f11465
 
 [Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=analysis-whatif&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Descargar MP4](demos/analysis-whatif.mp4)
 
 ### Modelización y presupuesto · 63s
 
-![](demos/modeling-budget.mp4)
+https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e
 
 [Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=modeling-budget&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Descargar MP4](demos/modeling-budget.mp4)
 
