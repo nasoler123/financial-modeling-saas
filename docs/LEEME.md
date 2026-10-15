@@ -4,7 +4,7 @@ Interfaz React, fórmulas, drivers, dependencias, proyecciones y adaptación a G
 
 ## Ver el frontend
 
-Demos guiadas del frontend con datos ficticios: modelos, comparativas de presupuesto y chat integrado. Son recorridos con guion de la generación anterior del producto; la muestra de cálculo ejecutable está más abajo.
+Demos guiadas del frontend con datos ficticios: modelos, comparativas de presupuesto, agentes personalizados y chat integrado. Son recorridos con guion de la generación anterior del producto; la muestra de cálculo ejecutable está más abajo.
 
 ### Análisis y escenarios · 57s
 
@@ -18,7 +18,12 @@ https://github.com/user-attachments/assets/2d61e940-98b4-4818-83e8-7e2fbc52519e
 
 [Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=modeling-budget&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Descargar MP4](demos/modeling-budget.mp4)
 
-[AI Assistant for Google Sheets](https://www.youtube.com/watch?v=Oo4Bd8iGeUY) — demo de la adaptación a Sheets.
+
+### Creación de agentes personalizados · 85s
+
+https://github.com/user-attachments/assets/418023e3-7c39-4082-ba8b-140ba44dab4a
+
+[Abrir la demo a pantalla completa](https://chalsai.com/demo.html?script=custom-agents&utm_source=github&utm_medium=portfolio&utm_campaign=financial-modeling-saas) · [Descargar MP4](demos/custom-agents.mp4)
 
 [Procedencia de los vídeos](demos/manifest.json).
 
